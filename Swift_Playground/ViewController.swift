@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         //계정 gorusair에서 FirstViewController 화면을 만들어서 개발을 시작했어요
+        //PR을 위한 코드 추가
         // Do any additional setup after loading the view.
     }
 
